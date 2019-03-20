@@ -1,0 +1,15 @@
+v C f
+m C b
+v S 0
+s S 1
+v i 0
+U
+v x 0
+v y 0
+c x i y x y 4
+a x f
+f x S 0 0 1 6
+v x 0
+a y f
+a i f
+f y S 0 0 1 6

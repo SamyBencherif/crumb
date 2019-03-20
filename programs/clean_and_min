@@ -1,0 +1,4 @@
+# Makes minified files that are more fun to show off
+
+rm *_min.cmb
+python3 minify.py

@@ -1,2 +1,0 @@
-rm *_min.cmb
-python3 minify.py
